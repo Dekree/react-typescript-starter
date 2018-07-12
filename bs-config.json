@@ -1,0 +1,17 @@
+{
+  "port": 3535,
+  "server": {
+    "baseDir": "./dist",
+    "middleware": {
+      "0": null
+    }
+  },
+  "logLevel": "silent",
+  "watchOptions": {
+    "ignoreInitial": true,
+    "ignored": "**/*.*"
+  },
+  "codeSync": false,
+  "scrollProportionally": false,
+  "injectChanges": false
+}
